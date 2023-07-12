@@ -1,0 +1,10 @@
+package Assignment13;
+
+public class Program6 {
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}
